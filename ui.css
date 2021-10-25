@@ -1,0 +1,107 @@
+  * {
+    text-decoration: none;
+    font-family: 'Noto Sans KR', sans-serif;
+  }
+  body {
+    background: #CEF6F5;
+  }
+  .head header {
+    background: #2EFEF7;
+    width:  100%;
+    height: 40px;
+  }
+
+  .head header h1 {
+    font-size: 30px;
+  }
+
+  .head header h1 a {
+    margin-left: 100px;
+    color: black;
+  }
+
+  .sec {
+    background: #EFF8FB;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -19px;
+    width: 1000px;
+    height: 1700px;
+    border-left: 0.5px solid gray;
+    border-right: 0.5px solid gray;
+
+  }
+
+  .firstcon .boxa ul {
+    list-style: none;
+  }
+  .firstcon .boxa ul h3 {
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-color: gray;
+    width: 250px;
+    margin-left: 30px;
+    text-align: center;
+  }
+  .firstcon .boxa ul h3 a {
+
+  }
+
+  .firstcon .boxb {
+    margin-left: 20px;
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+    width: 100px;
+  }
+
+  .firstcon .boxb ul {
+    padding-left: 0px;
+    list-style: none;
+    text-align: center;
+  }
+  .firstcon .boxb ul h4 {
+    font-size: 30px;
+    margin-top: -10px;
+    margin-bottom: 0px;
+  }
+  .nava .navb h2 {
+    font-size: 20px;
+  }
+  .secondcon iframe {
+    display: block;
+    margin: auto;
+  }
+
+  h2 {
+    margin-left: 200px;
+    color: black;
+  }
+
+  h4 {
+    text-align: center;
+  }
+
+  .thirdcon ul {
+    margin-left: 100px;
+  }
+
+  hr {
+    width: 800px;
+  }
+  .coke table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+  }
+  .coke table tr {
+    text-align: center;
+  }
+  footer {
+    text-align: right;
+  }
+  footer hr {
+    width: 1000px;
+  }
